@@ -1,0 +1,4 @@
+interface Division {
+
+    void divide();
+}

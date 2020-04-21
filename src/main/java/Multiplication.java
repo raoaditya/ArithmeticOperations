@@ -1,0 +1,4 @@
+interface Multiplication {
+
+    void multiply();
+}

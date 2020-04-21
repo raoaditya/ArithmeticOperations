@@ -1,0 +1,3 @@
+interface Subtraction {
+    void subtraction();
+}

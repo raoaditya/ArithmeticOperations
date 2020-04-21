@@ -1,0 +1,4 @@
+interface Modulo {
+
+    void remainder();
+}

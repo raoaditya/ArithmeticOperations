@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ArithmeticOperations:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ArithmeticOperations_jar</output-path>
+    <root id="archive" name="ArithmeticOperations.jar">
+      <element id="module-output" name="ArithmeticOperations" />
+    </root>
+  </artifact>
+</component>
